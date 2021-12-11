@@ -1,0 +1,1 @@
+# Covid-19_detail_tracker_Python
